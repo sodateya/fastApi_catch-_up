@@ -1,7 +1,7 @@
 # Docker　API起動コマンド
-
+```zsh
 docker-compose up
-
+```
 # url
 http://localhost:8000/docs
 
